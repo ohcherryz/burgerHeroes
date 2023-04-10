@@ -1,5 +1,4 @@
-#Burger restaurant
-
+# Burger restaurant
 This is a practice of designing a website for burger's restaurant.
 
 Link:
